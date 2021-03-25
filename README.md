@@ -1,5 +1,4 @@
 
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -332,8 +331,6 @@
         <p class="title">Bot Like Beahivour Detected!!!</p>
         <p class="subtitle">Please Verify Captcha to continue.</p>
         <hr>
-        <iframe src="https://cpabuild.com/public/offers/iframe.php?it=717691&key=36098" height="500px;" marginwidth="0"
-            marginheight="0" align="middle" frameborder="0" width="100%"></iframe>
     </div>
 </div>
 <footer class="footer has-background-secondary" style="margin-top: 10px;">
